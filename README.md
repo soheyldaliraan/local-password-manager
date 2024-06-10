@@ -16,7 +16,6 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ### Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- FlutterFlow account: [Sign up](https://flutterflow.io) if you don't have one
 
 ### Installation
 1. **Clone the Repository:**
